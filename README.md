@@ -43,10 +43,16 @@ Install the dependencies of each application
   npm install
 ```
 
-Start the server, web application and mobile application using:
+Start the server and web application using:
 
 ```bash
   npm run dev
+```
+
+Start the mobile application using:
+
+```bash
+  npx expo start
 ```
 
 
