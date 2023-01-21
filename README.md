@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/bR2fnhB/Cover.png)
+![Logo](.github/Cover.png)
 
 
 # Habits
