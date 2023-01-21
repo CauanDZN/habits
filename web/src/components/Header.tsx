@@ -28,7 +28,7 @@ export function Header() {
             </Dialog.Close>
 
             <Dialog.Title className="text-3xl leading-tight font-extrabold">
-              Criar hábito
+              Criar bábito
             </Dialog.Title>
 
             <NewHabitForm />
