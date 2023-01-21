@@ -26,9 +26,20 @@ Go to the project directory
   cd habits
 ```
 
-Install dependencies
+Install the dependencies of each application
 
 ```bash
+  cd server
+  npm install
+```
+
+```bash
+  cd web
+  npm install
+```
+
+```bash
+  cd mobile
   npm install
 ```
 
